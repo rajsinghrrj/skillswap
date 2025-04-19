@@ -2,8 +2,8 @@ import React from 'react';
 
 const Header = () => {
   return (
-    <header style={{ backgroundColor: '#f0f0f0', padding: '10px' }}>
-      <h1>SkillSwap</h1>
+    <header style={{ backgroundColor: 'red', padding: '10px' }}>
+      <h1><center>SkillSwap</center></h1>
     </header>
   );
 };
